@@ -1,0 +1,21 @@
+patient_id,first_name,last_name,dob,gender,chief_complaint,diagnosis,icd10_code,visit_date,provider,insurance
+P001,John,Smith,1975-03-12,M,Chest pain,Hypertension,I10,2024-01-15,Dr. Adams,BlueCross
+P002,Mary,Johnson,1988-07-24,F,Headache,Migraine,G43.909,2024-01-16,Dr. Brown,Aetna
+P003,Robert,Williams,1962-11-05,M,,Type 2 Diabetes,E11.9,2024-01-17,Dr. Adams,Medicare
+P004,Linda,Brown,1990-02-18,F,Fatigue,Anemia,D649,2024-01-18,Dr. Chen,Cigna
+P005,Michael,Jones,1955-08-30,M,Back pain,Lumbar strain,M54.5,2024-01-19,Dr. Brown,BlueCross
+P006,Patricia,Davis,1983-05-14,F,Cough,,J06.9,2024-01-20,Dr. Adams,Aetna
+P007,James,Miller,1970-09-22,M,Dizziness,Vertigo,H81.10,2024-01-21,Dr. Chen,Medicare
+P008,Barbara,Wilson,1995-12-01,F,Chest pain,Hypertension,I10,2024-01-22,,BlueCross
+P009,William,Moore,1948-04-17,M,Shortness of breath,COPD,J44.1,2024-01-23,Dr. Brown,Medicare
+P010,Elizabeth,Taylor,1978-06-28,F,Knee pain,Osteoarthritis,M17.11,2024-01-24,Dr. Adams,Cigna
+P011,John,Smith,1975-03-12,M,Chest pain,Hypertension,I10,2024-01-15,Dr. Adams,BlueCross
+P012,David,Anderson,1965-10-09,M,,Depression,F32.9,2024-01-25,Dr. Chen,Aetna
+P013,Susan,Thomas,1992-01-30,F,Rash,Eczema,L30.9,2024-01-26,Dr. Brown,BlueCross
+P014,Richard,Jackson,1958-07-11,M,Abdominal pain,GERD,K21.0,2024-01-27,Dr. Adams,Medicare
+P015,Jessica,White,1987-03-25,F,Anxiety,GAD,F41.1,2024-01-28,Dr. Chen,Cigna
+P016,Thomas,Harris,1972-08-16,M,Chest pain,,XYZ123,2024-01-29,Dr. Brown,Aetna
+P017,Sarah,Martin,1969-02-04,F,Joint pain,Rheumatoid Arthritis,M06.9,2024-01-30,Dr. Adams,BlueCross
+P018,Charles,Garcia,1981-11-19,M,,Type 2 Diabetes,E11.9,2024-01-31,Dr. Chen,Medicare
+P019,Karen,Martinez,1994-05-07,F,Fever,UTI,N39.0,2024-02-01,Dr. Brown,Cigna
+P020,Daniel,Robinson,1960-09-13,M,Blurred vision,Diabetic retinopathy,E11.311,2024-02-02,Dr. Adams,Aetna
